@@ -19,6 +19,35 @@ You can click the Preview link to take a look at your changes.
     <a href="mailto:joseg1224@hotmail.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png"/></a>
 </div> 
 </div>
+
+<div>
+<h3> Projects </h3>
+<h2> Pokedex </h2>
+created a pokedex using the information available from the pokemon API, it uses a front end with react and a backend with node and express.
+the pokemon are brought to the backend where the original are saved and where is possible to store new created pokemons from the front end.
+the pokedex also allow to filter by type, strength and name of the pokemon, it also allows to bring more information from specefic pokemon into their own page
+
+![pokemon](./promo.png)
+
+<h2> Ecommerce </h2>
+worked in a group using agile methodologies in order to recreate an ecommerce page, the front end was made using react, and the backend with node.
+the main functions the project had were, showcasing the products from the backend to the frontend, creating and manipulating the products information from the front end via authenticated users with admin roles, the ability to sort the products and search for specific products, add new products to a queu in order to buy them using Stripe as the payment processing platform, and the ablity to send mail to the users regarding their purchases and wishlist items.
+
+![pokemon](./ecommerce2.png)
+
+
+<h2> Bussiness page for a doctor </h2>
+Web page made for a doctor, its made with react and CSS, it shows her bussiness informaiton, has links to their offered treatment details, counts with links to their whatsapp for contact, and showcases to their videos,
+
+![pokemon](./doctorpage.png)
+
+
+<h2> Weatherapp </h2>
+simple add with react, its conected to the weather api, it brings cities information and showcases it, its able to sabe multiple cities and create personal dashboards.
+
+![pokemon](./weatherapp.png)
+
+</div>
   
 <div>
   <h3> 💻 Languages and Tools </h3>
