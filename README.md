@@ -8,15 +8,13 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 --->
 <h1 align="center">Hey there! I'm Jose Garcia 👋 </h1>
-<h3 align="center">Frontend Developer | Javascript | React | HTML | CSS | SQL | Node.js | Express | Sequelize </h3>
+<h3 align="center">Wev Developer | Javascript | React | HTML | CSS | SQL | Node.js | Express | Sequelize | Nextjs | Tailwind CSS | </h3>
 <div>
 
 <div align="left"> 
   <h3> About Me </h3>
 
-  - 👀 I’m interested in Front end development and technologies
-  - 🌱 I’m currently learning Gatsby and Graphql
-  - 💞️ I’m looking to collaborate on projects that let me put my skills into practice and help people
+  - Im a Web developer interested in self improvent and to continue learning new technologies, Im passionate about creating and supporting project that can help others.
   - 📫 Reach me by <a href="https://www.linkedin.com/in/jose-guillermo-garcia-serrano-dev/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
     <a href="mailto:joseg1224@hotmail.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png"/></a>
 </div> 
